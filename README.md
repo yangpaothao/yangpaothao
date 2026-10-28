@@ -5,10 +5,14 @@
 ## What I'm building
 
 ### 🚐 [RV Park Planner](https://github.com/yangpaothao/rv-park-planner-showcase)
+🌐 [rvparkplanner.com](https://rvparkplanner.com) (launching November 2026)
+
 A multi-tenant SaaS for RV parks and campgrounds: online booking with live availability, Stripe Connect and Square payments, a satellite map designer, custom domains for each park, and an AI help assistant built on the Claude API.
 `Laravel` `React` `TypeScript` `Tailwind CSS` `MySQL` `Stripe` `Square` `Claude API`
 
 ### 🧵 [Paj Ntaub Watch (Storycloth)](https://github.com/yangpaothao/storycloth-watch-showcase)
+🌐 [storyclothapp.com](https://storyclothapp.com)
+
 A clock app for Android phones and Wear OS watches, designed around paj ntaub, the Hmong story-cloth art form. One HTML5 canvas engine powers the phone, the watch and the web preview. Now in Google Play testing.
 `HTML5 Canvas` `JavaScript` `Android (Java/Kotlin)` `Wear OS`
 
